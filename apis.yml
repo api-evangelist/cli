@@ -8,10 +8,10 @@ description: >-
 type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-  - Command Line Interface
-  - HTTP Client
   - CLI
+  - Command Line Interface
   - Developer Tools
+  - HTTP Client
 url: https://raw.githubusercontent.com/api-evangelist/cli/refs/heads/main/apis.yml
 created: '2026-03-25'
 modified: '2026-03-25'
