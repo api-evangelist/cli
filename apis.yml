@@ -7,14 +7,16 @@ description: >-
   cloud provider CLIs, platform CLIs, and infrastructure management tools.
 type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+x-type: topic
 tags:
   - CLI
   - Command Line Interface
   - Developer Tools
   - HTTP Client
+  - Terminal
 url: https://raw.githubusercontent.com/api-evangelist/cli/refs/heads/main/apis.yml
 created: '2026-03-25'
-modified: '2026-03-25'
+modified: '2026-04-26'
 specificationVersion: '0.19'
 network:
   - name: API Dash
@@ -89,4 +91,4 @@ network:
     url: https://raw.githubusercontent.com/api-evangelist/xh/refs/heads/main/apis.yml
 maintainers:
   - FN: Kin Lane
-    email: kin@apievangelist.com
+    email: kinlane@gmail.com
