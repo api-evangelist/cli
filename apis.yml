@@ -7,7 +7,7 @@ description: >-
   cloud provider CLIs, platform CLIs, and infrastructure management tools.
 type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
-x-type: topic
+kind: topic
 tags:
   - CLI
   - Command Line Interface
