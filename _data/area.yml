@@ -1,0 +1,124 @@
+meta:
+  name: Command Line Interface
+  description: A curated index of services, tooling, and open source solutions for
+    API command line interfaces, HTTP clients, and terminal-based API tools. This
+    collection covers HTTP clients, API-specific CLIs, spec and linting CLIs, cloud
+    provider CLIs, platform CLIs, and infrastructure management tools.
+  tags:
+  - CLI
+  - Command Line Interface
+  - Developer Tools
+  - HTTP Client
+  - Terminal
+  portal: null
+  github: null
+  repo: cli
+services_tools:
+- name: API Dash
+  repo: https://github.com/api-evangelist/api-dash
+  apisio: https://providers.apis.io/providers/api-dash/
+- name: AsyncAPI
+  repo: https://github.com/api-evangelist/asyncapi
+  apisio: https://providers.apis.io/providers/asyncapi/
+- name: AWS CLI
+  repo: https://github.com/api-evangelist/aws-cli
+  apisio: https://providers.apis.io/providers/aws-cli/
+- name: Azure CLI
+  repo: https://github.com/api-evangelist/azure-cli
+  apisio: https://providers.apis.io/providers/azure-cli/
+- name: Bruno
+  repo: https://github.com/api-evangelist/bruno
+  apisio: https://providers.apis.io/providers/bruno/
+- name: Buf
+  repo: https://github.com/api-evangelist/buf
+  apisio: https://providers.apis.io/providers/buf/
+- name: Cloudflare
+  repo: https://github.com/api-evangelist/cloudflare
+  apisio: https://providers.apis.io/providers/cloudflare/
+- name: curl
+  repo: https://github.com/api-evangelist/curl
+  apisio: https://providers.apis.io/providers/curl/
+- name: Docker
+  repo: https://github.com/api-evangelist/docker
+  apisio: https://providers.apis.io/providers/docker/
+- name: Fly.io
+  repo: https://github.com/api-evangelist/fly-io
+  apisio: https://providers.apis.io/providers/fly-io/
+- name: GitHub CLI
+  repo: https://github.com/api-evangelist/github-cli
+  apisio: https://providers.apis.io/providers/github-cli/
+- name: Google Cloud
+  repo: https://github.com/api-evangelist/google-cloud
+  apisio: https://providers.apis.io/providers/google-cloud/
+- name: grpcurl
+  repo: https://github.com/api-evangelist/grpcurl
+  apisio: https://providers.apis.io/providers/grpcurl/
+- name: Helm
+  repo: https://github.com/api-evangelist/helm
+  apisio: https://providers.apis.io/providers/helm/
+- name: Hoppscotch
+  repo: https://github.com/api-evangelist/hoppscotch
+  apisio: https://providers.apis.io/providers/hoppscotch/
+- name: HTTPie
+  repo: https://github.com/api-evangelist/httpie
+  apisio: https://providers.apis.io/providers/httpie/
+- name: Hurl
+  repo: https://github.com/api-evangelist/hurl
+  apisio: https://providers.apis.io/providers/hurl/
+- name: Insomnia
+  repo: https://github.com/api-evangelist/insomnia
+  apisio: https://providers.apis.io/providers/insomnia/
+- name: Kiota
+  repo: https://github.com/api-evangelist/kiota
+  apisio: https://providers.apis.io/providers/kiota/
+- name: kubectl
+  repo: https://github.com/api-evangelist/kubectl
+  apisio: https://providers.apis.io/providers/kubectl/
+- name: Netlify
+  repo: https://github.com/api-evangelist/netlify
+  apisio: https://providers.apis.io/providers/netlify/
+- name: Newman
+  repo: https://github.com/api-evangelist/newman
+  apisio: https://providers.apis.io/providers/newman/
+- name: OpenAPI Generator
+  repo: https://github.com/api-evangelist/openapi-generator
+  apisio: https://providers.apis.io/providers/openapi-generator/
+- name: Postman
+  repo: https://github.com/api-evangelist/postman
+  apisio: https://providers.apis.io/providers/postman/
+- name: Pulumi
+  repo: https://github.com/api-evangelist/pulumi
+  apisio: https://providers.apis.io/providers/pulumi/
+- name: Redocly
+  repo: https://github.com/api-evangelist/redocly
+  apisio: https://providers.apis.io/providers/redocly/
+- name: Spectral
+  repo: https://github.com/api-evangelist/spectral
+  apisio: https://providers.apis.io/providers/spectral/
+- name: Stripe
+  repo: https://github.com/api-evangelist/stripe
+  apisio: https://providers.apis.io/providers/stripe/
+- name: Supabase
+  repo: https://github.com/api-evangelist/supabase
+  apisio: https://providers.apis.io/providers/supabase/
+- name: Swagger
+  repo: https://github.com/api-evangelist/swagger
+  apisio: https://providers.apis.io/providers/swagger/
+- name: Terraform
+  repo: https://github.com/api-evangelist/terraform
+  apisio: https://providers.apis.io/providers/terraform/
+- name: Twilio
+  repo: https://github.com/api-evangelist/twilio
+  apisio: https://providers.apis.io/providers/twilio/
+- name: Vacuum
+  repo: https://github.com/api-evangelist/vacuum
+  apisio: https://providers.apis.io/providers/vacuum/
+- name: Vercel
+  repo: https://github.com/api-evangelist/vercel
+  apisio: https://providers.apis.io/providers/vercel/
+- name: xh
+  repo: https://github.com/api-evangelist/xh
+  apisio: https://providers.apis.io/providers/xh/
+features: []
+use_cases: []
+integrations: []

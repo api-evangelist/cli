@@ -1,0 +1,19 @@
+title: Command Line Interface
+description: A curated index of services, tooling, and open source solutions for API
+  command line interfaces, HTTP clients, and terminal-based API tools. This collection
+  covers HTTP clients, API-specific CLIs, spec and linting CLIs, cloud provider CLIs,
+  platform CLIs, and infrastructure management tools.
+url: https://cli.apievangelist.com
+collections:
+  api_stories:
+    output: false
+exclude:
+- README.md
+- Gemfile
+- Gemfile.lock
+- Dockerfile
+- examples
+- json-ld
+- json-schema
+- json-structure
+- vocabulary
